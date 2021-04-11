@@ -5,7 +5,7 @@ def head():
     print(colorama.Fore.CYAN + '''
                           '
                         '   '  UNDEADSEC | t.me/UndeadSec 
-                      '       '  youtube.com/c/UndeadSec - BRAZIL
+                      '       '  youtube.com/c/UndeadSec - MALAYSIA
                  .  '  .        '                        '
              '             '      '                   '   '
   ███████ ████████ ███████ ██ ███████ ██       ███████ ██ ███████ ██   ██ 
